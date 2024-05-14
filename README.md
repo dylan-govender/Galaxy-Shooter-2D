@@ -3,12 +3,16 @@ Simple Galaxy Shooter 2D game created with Unity Game Engine using C#.
 Consists of:
 
   • User Interface
+  
   • Pause Menu
+  
   • Start Menu
+  
   • Player's Statistics
+  
   • Multiplayer
 
-Download Game Link: https://onedrive.live.com/download?resid=7918FA0859D3D429%21107&authkey=!AK3yvBZ-ZSWxS3g
+Download Game Link: https://bit.ly/Download-Galaxy-Shooter-2D
 
 ![Screenshot 2023-09-26 154353](https://github.com/dylan-govend/Galaxy-Shooter-2D/assets/134143760/c51d9285-368c-4239-aea8-dc0a5f97feea)
 ![Screenshot 2023-09-26 154418](https://github.com/dylan-govend/Galaxy-Shooter-2D/assets/134143760/150ed388-6cc7-4f95-bc7a-15b5ebf3c319)
